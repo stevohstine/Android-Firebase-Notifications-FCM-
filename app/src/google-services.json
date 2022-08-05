@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520758219755",
+    "project_id": "custom-totifications",
+    "storage_bucket": "custom-totifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520758219755:android:e62e7a6e1634f9d744ffae",
+        "android_client_info": {
+          "package_name": "com.example.notificationsandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520758219755-5qaifh344ck49f16lqr55iaoe328vkff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5xsGqUnUdO0hbfS5jOhCbLWpdRFntDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520758219755-5qaifh344ck49f16lqr55iaoe328vkff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
